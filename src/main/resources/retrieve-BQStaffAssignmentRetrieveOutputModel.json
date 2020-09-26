@@ -1,0 +1,26 @@
+{
+  "staffAssignmentPostconditions" : "staffAssignmentPostconditions",
+  "staffAssignmentRetrieveActionTaskRecord" : {},
+  "staffAssignmentWorkSchedule" : "staffAssignmentWorkSchedule",
+  "staffAssignmentPreconditions" : "staffAssignmentPreconditions",
+  "staffAssignmentStaffAssignmentServiceWorkProduct" : "staffAssignmentStaffAssignmentServiceWorkProduct",
+  "staffAssignmentStaffAssignmentServiceDescription" : "staffAssignmentStaffAssignmentServiceDescription",
+  "staffAssignmentInstanceAnalysis" : {
+    "staffAssignmentInstanceAnalysisParameters" : "staffAssignmentInstanceAnalysisParameters",
+    "staffAssignmentInstanceAnalysisReport" : {},
+    "staffAssignmentInstanceAnalysisReportType" : "staffAssignmentInstanceAnalysisReportType",
+    "staffAssignmentInstanceAnalysisRecord" : {}
+  },
+  "staffAssignmentStaffAssignmentServiceType" : "staffAssignmentStaffAssignmentServiceType",
+  "staffAssignmentStaffAssignmentServiceInputsandOuputs" : "staffAssignmentStaffAssignmentServiceInputsandOuputs",
+  "staffAssignmentInstanceReport" : {
+    "staffAssignmentInstanceReportParameters" : "staffAssignmentInstanceReportParameters",
+    "staffAssignmentInstanceReportRecord" : {},
+    "staffAssignmentInstanceReport" : {},
+    "staffAssignmentInstanceReportType" : "staffAssignmentInstanceReportType"
+  },
+  "staffAssignmentStaffAssignmentServiceName" : "staffAssignmentStaffAssignmentServiceName",
+  "staffAssignmentBusinessUnitEmployeeReference" : "SABUR795354",
+  "staffAssignmentRetrieveActionTaskReference" : "SARATR720949",
+  "staffAssignmentRetrieveActionResponse" : "staffAssignmentRetrieveActionResponse"
+}

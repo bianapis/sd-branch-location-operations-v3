@@ -1,0 +1,24 @@
+{
+  "branchLocationOperationsServicingSessionRecord" : {},
+  "branchLocationOperationsActivationActionTaskReference" : "SAATR758836",
+  "branchLocationOperationsServicingSessionStatus" : "branchLocationOperationsServicingSessionStatus",
+  "branchLocationOperationsServicingSessionReference" : "SSSR783215",
+  "branchLocationOperationsServiceConfigurationRecord" : {
+    "branchLocationOperationsServiceConfigurationSettingReference" : "700761",
+    "branchLocationOperationsServiceConfigurationSettingDescription" : "branchLocationOperationsServiceConfigurationSettingDescription",
+    "branchLocationOperationsServiceConfigurationSetup" : {
+      "branchLocationOperationsServiceConfigurationParameter" : "branchLocationOperationsServiceConfigurationParameter"
+    },
+    "branchLocationOperationsServiceStatus" : "branchLocationOperationsServiceStatus",
+    "branchLocationOperationsServiceSubscription" : {
+      "branchLocationOperationsServiceSubscriberReference" : "769192",
+      "branchLocationOperationsServiceSubscriberAccessProfile" : "branchLocationOperationsServiceSubscriberAccessProfile"
+    },
+    "branchLocationOperationsServiceAgreement" : {
+      "branchLocationOperationsServiceAgreementTermsandConditions" : "branchLocationOperationsServiceAgreementTermsandConditions",
+      "branchLocationOperationsServiceAgreementReference" : "791202",
+      "branchLocationOperationsServiceUserReference" : "767210"
+    }
+  },
+  "branchLocationOperationsActivationActionTaskRecord" : {}
+}

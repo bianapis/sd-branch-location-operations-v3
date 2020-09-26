@@ -1,0 +1,15 @@
+{
+  "cashInventoryHandlingCaptureRecordReference" : "CIHCRR766006",
+  "noncashInventoryHandlingBusinessUnitEmployeeReference" : "NIHBUR746168",
+  "noncashInventoryHandlingInventoryHandlingServiceWorkProduct" : "noncashInventoryHandlingInventoryHandlingServiceWorkProduct",
+  "noncashInventoryHandlingWorkSchedule" : "noncashInventoryHandlingWorkSchedule",
+  "noncashInventoryHandlingInventoryHandlingServiceInputsandOuputs" : "noncashInventoryHandlingInventoryHandlingServiceInputsandOuputs",
+  "noncashInventoryHandlingInventoryHandlingServiceType" : "noncashInventoryHandlingInventoryHandlingServiceType",
+  "noncashInventoryHandlingPostconditions" : "noncashInventoryHandlingPostconditions",
+  "noncashInventoryHandlingPreconditions" : "noncashInventoryHandlingPreconditions",
+  "cashInventoryHandlingCaptureActionTaskReference" : "CIHCATR738795",
+  "cashInventoryHandlingCaptureActionTaskRecord" : {},
+  "noncashInventoryHandlingInventoryHandlingServiceDescription" : "noncashInventoryHandlingInventoryHandlingServiceDescription",
+  "captureResponseRecord" : {},
+  "noncashInventoryHandlingInventoryHandlingServiceName" : "noncashInventoryHandlingInventoryHandlingServiceName"
+}

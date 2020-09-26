@@ -1,0 +1,39 @@
+{
+  "branchLocationOperationsRetrieveActionRecord" : {
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "branchLocationOperationsActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    },
+    "branchLocationOperationsPerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    }
+  },
+  "branchLocationOperationsOfferedService" : {
+    "branchLocationOperationsServiceReference" : "776158",
+    "branchLocationOperationsServiceRecord" : {
+      "branchLocationOperationsServiceDescription" : "branchLocationOperationsServiceDescription",
+      "branchLocationOperationsServicePoliciesandGuidelines" : {
+        "branchLocationOperationsServicePricingandTerms" : "branchLocationOperationsServicePricingandTerms",
+        "branchLocationOperationsServiceIntendedUses" : "branchLocationOperationsServiceIntendedUses",
+        "branchLocationOperationsServiceEligibility" : "branchLocationOperationsServiceEligibility"
+      },
+      "branchLocationOperationsServiceSchedule" : "branchLocationOperationsServiceSchedule",
+      "branchLocationOperationsServiceType" : "branchLocationOperationsServiceType",
+      "branchLocationOperationsServiceVersion" : "branchLocationOperationsServiceVersion"
+    }
+  },
+  "branchLocationOperationsRetrieveActionTaskReference" : "SRATR795161",
+  "branchLocationOperationsRetrieveActionTaskRecord" : {},
+  "branchLocationOperationsRetrieveActionResponse" : "branchLocationOperationsRetrieveActionResponse"
+}

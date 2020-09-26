@@ -1,0 +1,15 @@
+{
+  "locationSecurityAdministrationExchangeActionTaskRecord" : {},
+  "locationSecurityAdministrationPostconditions" : "locationSecurityAdministrationPostconditions",
+  "locationSecurityAdministrationExchangeActionTaskReference" : "LSAEATR755438",
+  "locationSecurityAdministrationLocationSecurityServiceName" : "locationSecurityAdministrationLocationSecurityServiceName",
+  "locationSecurityAdministrationLocationSecurityServiceType" : "locationSecurityAdministrationLocationSecurityServiceType",
+  "locationSecurityAdministrationWorkSchedule" : "locationSecurityAdministrationWorkSchedule",
+  "locationSecurityAdministrationExchangeActionResponse" : "locationSecurityAdministrationExchangeActionResponse",
+  "locationSecurityAdministrationInstanceStatus" : "locationSecurityAdministrationInstanceStatus",
+  "locationSecurityAdministrationLocationSecurityServiceWorkProduct" : "locationSecurityAdministrationLocationSecurityServiceWorkProduct",
+  "locationSecurityAdministrationPreconditions" : "locationSecurityAdministrationPreconditions",
+  "locationSecurityAdministrationBusinessUnitEmployeeReference" : "LSABUR738033",
+  "locationSecurityAdministrationLocationSecurityServiceInputsandOuputs" : "locationSecurityAdministrationLocationSecurityServiceInputsandOuputs",
+  "locationSecurityAdministrationLocationSecurityServiceDescription" : "locationSecurityAdministrationLocationSecurityServiceDescription"
+}

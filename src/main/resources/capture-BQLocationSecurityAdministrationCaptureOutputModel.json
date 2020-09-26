@@ -1,0 +1,15 @@
+{
+  "locationSecurityAdministrationPostconditions" : "locationSecurityAdministrationPostconditions",
+  "locationSecurityAdministrationLocationSecurityServiceName" : "locationSecurityAdministrationLocationSecurityServiceName",
+  "locationSecurityAdministrationLocationSecurityServiceType" : "locationSecurityAdministrationLocationSecurityServiceType",
+  "locationSecurityAdministrationWorkSchedule" : "locationSecurityAdministrationWorkSchedule",
+  "locationSecurityAdministrationLocationSecurityServiceWorkProduct" : "locationSecurityAdministrationLocationSecurityServiceWorkProduct",
+  "locationSecurityAdministrationPreconditions" : "locationSecurityAdministrationPreconditions",
+  "locationSecurityAdministrationCaptureActionTaskRecord" : {},
+  "locationSecurityAdministrationBusinessUnitEmployeeReference" : "LSABUR756230",
+  "locationSecurityAdministrationCaptureRecordReference" : "LSACRR735345",
+  "locationSecurityAdministrationLocationSecurityServiceInputsandOuputs" : "locationSecurityAdministrationLocationSecurityServiceInputsandOuputs",
+  "captureResponseRecord" : {},
+  "locationSecurityAdministrationLocationSecurityServiceDescription" : "locationSecurityAdministrationLocationSecurityServiceDescription",
+  "locationSecurityAdministrationCaptureActionTaskReference" : "LSACATR795853"
+}

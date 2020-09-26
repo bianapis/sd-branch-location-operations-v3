@@ -1,0 +1,15 @@
+{
+  "safeCustodyOperationsSafeCustodyOperationsServiceName" : "safeCustodyOperationsSafeCustodyOperationsServiceName",
+  "nonCashInventoryHandlingRequestActionTaskRecord" : {},
+  "safeCustodyOperationsSafeCustodyOperationsServiceWorkProduct" : "safeCustodyOperationsSafeCustodyOperationsServiceWorkProduct",
+  "safeCustodyOperationsSafeCustodyOperationsServiceType" : "safeCustodyOperationsSafeCustodyOperationsServiceType",
+  "safeCustodyOperationsBusinessUnitEmployeeReference" : "SCOBUR710970",
+  "requestResponseRecord" : {},
+  "safeCustodyOperationsPreconditions" : "safeCustodyOperationsPreconditions",
+  "nonCashInventoryHandlingRequestActionTaskReference" : "NCIHRATR764971",
+  "nonCashInventoryHandlingRequestRecordReference" : "NCIHRRR760747",
+  "safeCustodyOperationsSafeCustodyOperationsServiceDescription" : "safeCustodyOperationsSafeCustodyOperationsServiceDescription",
+  "safeCustodyOperationsSafeCustodyOperationsServiceInputsandOuputs" : "safeCustodyOperationsSafeCustodyOperationsServiceInputsandOuputs",
+  "safeCustodyOperationsWorkSchedule" : "safeCustodyOperationsWorkSchedule",
+  "safeCustodyOperationsPostconditions" : "safeCustodyOperationsPostconditions"
+}

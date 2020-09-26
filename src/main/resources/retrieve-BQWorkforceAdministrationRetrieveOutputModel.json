@@ -1,0 +1,25 @@
+{
+  "cashInventoryHandlingPostconditions" : "cashInventoryHandlingPostconditions",
+  "cashInventoryHandlingWorkSchedule" : "cashInventoryHandlingWorkSchedule",
+  "workforceAdministrationInstanceAnalysis" : {
+    "workforceAdministrationInstanceAnalysisReportType" : "workforceAdministrationInstanceAnalysisReportType",
+    "workforceAdministrationInstanceAnalysisRecord" : {},
+    "workforceAdministrationInstanceAnalysisParameters" : "workforceAdministrationInstanceAnalysisParameters",
+    "workforceAdministrationInstanceAnalysisReport" : {}
+  },
+  "workforceAdministrationRetrieveActionTaskRecord" : {},
+  "workforceAdministrationInstanceReport" : {
+    "workforceAdministrationInstanceReport" : {},
+    "workforceAdministrationInstanceReportRecord" : {},
+    "workforceAdministrationInstanceReportType" : "workforceAdministrationInstanceReportType",
+    "workforceAdministrationInstanceReportParameters" : "workforceAdministrationInstanceReportParameters"
+  },
+  "cashInventoryHandlingCashInventoryHandlingServiceDescription" : "cashInventoryHandlingCashInventoryHandlingServiceDescription",
+  "cashInventoryHandlingCashInventoryHandlingServiceType" : "cashInventoryHandlingCashInventoryHandlingServiceType",
+  "cashInventoryHandlingCashInventoryHandlingServiceInputsandOuputs" : "cashInventoryHandlingCashInventoryHandlingServiceInputsandOuputs",
+  "cashInventoryHandlingPreconditions" : "cashInventoryHandlingPreconditions",
+  "workforceAdministrationRetrieveActionTaskReference" : "WARATR776453",
+  "cashInventoryHandlingCashInventoryHandlingServiceWorkProduct" : "cashInventoryHandlingCashInventoryHandlingServiceWorkProduct",
+  "workforceAdministrationRetrieveActionResponse" : "workforceAdministrationRetrieveActionResponse",
+  "cashInventoryHandlingBusinessUnitEmployeeReference" : "CIHBUR789413"
+}

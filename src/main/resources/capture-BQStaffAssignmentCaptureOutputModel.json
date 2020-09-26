@@ -1,0 +1,15 @@
+{
+  "staffAssignmentPostconditions" : "staffAssignmentPostconditions",
+  "staffAssignmentWorkSchedule" : "staffAssignmentWorkSchedule",
+  "staffAssignmentPreconditions" : "staffAssignmentPreconditions",
+  "staffAssignmentCaptureActionTaskReference" : "SACATR732105",
+  "staffAssignmentStaffAssignmentServiceWorkProduct" : "staffAssignmentStaffAssignmentServiceWorkProduct",
+  "staffAssignmentCaptureActionTaskRecord" : {},
+  "staffAssignmentStaffAssignmentServiceDescription" : "staffAssignmentStaffAssignmentServiceDescription",
+  "staffAssignmentStaffAssignmentServiceType" : "staffAssignmentStaffAssignmentServiceType",
+  "staffAssignmentStaffAssignmentServiceInputsandOuputs" : "staffAssignmentStaffAssignmentServiceInputsandOuputs",
+  "staffAssignmentStaffAssignmentServiceName" : "staffAssignmentStaffAssignmentServiceName",
+  "staffAssignmentBusinessUnitEmployeeReference" : "SABUR775836",
+  "captureResponseRecord" : {},
+  "staffAssignmentCaptureRecordReference" : "SACRR791557"
+}

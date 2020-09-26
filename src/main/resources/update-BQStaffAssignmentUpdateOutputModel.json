@@ -1,0 +1,14 @@
+{
+  "staffAssignmentUpdateActionTaskRecord" : {},
+  "staffAssignmentPostconditions" : "staffAssignmentPostconditions",
+  "staffAssignmentStaffAssignmentServiceDescription" : "staffAssignmentStaffAssignmentServiceDescription",
+  "staffAssignmentStaffAssignmentServiceType" : "staffAssignmentStaffAssignmentServiceType",
+  "staffAssignmentStaffAssignmentServiceInputsandOuputs" : "staffAssignmentStaffAssignmentServiceInputsandOuputs",
+  "staffAssignmentWorkSchedule" : "staffAssignmentWorkSchedule",
+  "staffAssignmentPreconditions" : "staffAssignmentPreconditions",
+  "staffAssignmentStaffAssignmentServiceName" : "staffAssignmentStaffAssignmentServiceName",
+  "updateResponseRecord" : {},
+  "staffAssignmentBusinessUnitEmployeeReference" : "SABUR776265",
+  "staffAssignmentStaffAssignmentServiceWorkProduct" : "staffAssignmentStaffAssignmentServiceWorkProduct",
+  "staffAssignmentUpdateActionTaskReference" : "SAUATR734968"
+}

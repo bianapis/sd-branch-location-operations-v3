@@ -1,0 +1,14 @@
+{
+  "noncashInventoryHandlingPreconditions" : "noncashInventoryHandlingPreconditions",
+  "noncashInventoryHandlingBusinessUnitEmployeeReference" : "NIHBUR768120",
+  "cashInventoryHandlingUpdateActionTaskReference" : "CIHUATR770190",
+  "noncashInventoryHandlingInventoryHandlingServiceWorkProduct" : "noncashInventoryHandlingInventoryHandlingServiceWorkProduct",
+  "cashInventoryHandlingUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "noncashInventoryHandlingWorkSchedule" : "noncashInventoryHandlingWorkSchedule",
+  "noncashInventoryHandlingInventoryHandlingServiceInputsandOuputs" : "noncashInventoryHandlingInventoryHandlingServiceInputsandOuputs",
+  "noncashInventoryHandlingInventoryHandlingServiceDescription" : "noncashInventoryHandlingInventoryHandlingServiceDescription",
+  "noncashInventoryHandlingInventoryHandlingServiceName" : "noncashInventoryHandlingInventoryHandlingServiceName",
+  "noncashInventoryHandlingInventoryHandlingServiceType" : "noncashInventoryHandlingInventoryHandlingServiceType",
+  "noncashInventoryHandlingPostconditions" : "noncashInventoryHandlingPostconditions"
+}

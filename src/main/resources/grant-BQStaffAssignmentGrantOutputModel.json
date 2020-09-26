@@ -1,0 +1,17 @@
+{
+  "staffAssignmentPostconditions" : "staffAssignmentPostconditions",
+  "staffAssignmentGrantActionTaskReference" : "SAGATR773311",
+  "staffAssignmentWorkSchedule" : "staffAssignmentWorkSchedule",
+  "staffAssignmentPreconditions" : "staffAssignmentPreconditions",
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "staffAssignmentStaffAssignmentServiceWorkProduct" : "staffAssignmentStaffAssignmentServiceWorkProduct",
+  "staffAssignmentGrantActionTaskRecord" : {},
+  "staffAssignmentStaffAssignmentServiceDescription" : "staffAssignmentStaffAssignmentServiceDescription",
+  "staffAssignmentStaffAssignmentServiceType" : "staffAssignmentStaffAssignmentServiceType",
+  "staffAssignmentStaffAssignmentServiceInputsandOuputs" : "staffAssignmentStaffAssignmentServiceInputsandOuputs",
+  "staffAssignmentStaffAssignmentServiceName" : "staffAssignmentStaffAssignmentServiceName",
+  "staffAssignmentBusinessUnitEmployeeReference" : "SABUR718715",
+  "grantRequestRecordReference" : "GRRR795882"
+}

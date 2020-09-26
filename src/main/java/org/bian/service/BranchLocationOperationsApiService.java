@@ -1,0 +1,100 @@
+/**
+ * @author Virtusa
+ */
+package org.bian.service;
+
+import java.util.List;
+
+import org.bian.dto.*;
+
+public interface BranchLocationOperationsApiService {
+
+	SDBranchLocationOperationsActivateOutputModel activate(SDBranchLocationOperationsActivateInputModel request);
+	
+	BQCashInventoryHandlingCaptureOutputModel captureCashinventoryhandling(String sdReferenceId, String crReferenceId, String bqReferenceId, BQCashInventoryHandlingCaptureInputModel request);
+	
+	BQLocationSecurityAdministrationCaptureOutputModel captureLocationsecurityadministration(String sdReferenceId, String crReferenceId, String bqReferenceId, BQLocationSecurityAdministrationCaptureInputModel request);
+	
+	BQNonCashInventoryHandlingCaptureOutputModel captureNoncashinventoryhandling(String sdReferenceId, String crReferenceId, String bqReferenceId, BQNonCashInventoryHandlingCaptureInputModel request);
+	
+	BQSafeCustodyOperationsCaptureOutputModel captureSafecustodyoperations(String sdReferenceId, String crReferenceId, String bqReferenceId, BQSafeCustodyOperationsCaptureInputModel request);
+	
+	BQStaffAssignmentCaptureOutputModel captureStaffassignment(String sdReferenceId, String crReferenceId, String bqReferenceId, BQStaffAssignmentCaptureInputModel request);
+	
+	CRBranchLocationAdministrativePlanCaptureOutputModel capture(String sdReferenceId, String crReferenceId, CRBranchLocationAdministrativePlanCaptureInputModel request);
+	
+	BQWorkforceAdministrationCaptureOutputModel captureWorkforceadministration(String sdReferenceId, String crReferenceId, String bqReferenceId, BQWorkforceAdministrationCaptureInputModel request);
+	
+	SDBranchLocationOperationsConfigureOutputModel configure(String sdReferenceId, SDBranchLocationOperationsConfigureInputModel request);
+	
+	CRBranchLocationAdministrativePlanControlOutputModel control(String sdReferenceId, String crReferenceId, CRBranchLocationAdministrativePlanControlInputModel request);
+	
+	BQLocationSecurityAdministrationExchangeOutputModel exchangeLocationsecurityadministration(String sdReferenceId, String crReferenceId, String bqReferenceId, BQLocationSecurityAdministrationExchangeInputModel request);
+	
+	CRBranchLocationAdministrativePlanExchangeOutputModel exchange(String sdReferenceId, String crReferenceId, CRBranchLocationAdministrativePlanExchangeInputModel request);
+	
+	SDBranchLocationOperationsFeedbackOutputModel feedback(String sdReferenceId, SDBranchLocationOperationsFeedbackInputModel request);
+	
+	BQCashInventoryHandlingGrantOutputModel grantCashinventoryhandling(String sdReferenceId, String crReferenceId, String bqReferenceId, BQCashInventoryHandlingGrantInputModel request);
+	
+	BQLocationSecurityAdministrationGrantOutputModel grantLocationsecurityadministration(String sdReferenceId, String crReferenceId, String bqReferenceId, BQLocationSecurityAdministrationGrantInputModel request);
+	
+	BQNonCashInventoryHandlingGrantOutputModel grantNoncashinventoryhandling(String sdReferenceId, String crReferenceId, String bqReferenceId, BQNonCashInventoryHandlingGrantInputModel request);
+	
+	BQStaffAssignmentGrantOutputModel grantStaffassignment(String sdReferenceId, String crReferenceId, String bqReferenceId, BQStaffAssignmentGrantInputModel request);
+	
+	CRBranchLocationAdministrativePlanGrantOutputModel grant(String sdReferenceId, String crReferenceId, CRBranchLocationAdministrativePlanGrantInputModel request);
+	
+	CRBranchLocationAdministrativePlanInitiateOutputModel initiate(String sdReferenceId, CRBranchLocationAdministrativePlanInitiateInputModel request);
+	
+	BQCashInventoryHandlingRequestOutputModel requestCashinventoryhandling(String sdReferenceId, String crReferenceId, String bqReferenceId, BQCashInventoryHandlingRequestInputModel request);
+	
+	BQLocationSecurityAdministrationRequestOutputModel requestLocationsecurityadministration(String sdReferenceId, String crReferenceId, String bqReferenceId, BQLocationSecurityAdministrationRequestInputModel request);
+	
+	BQNonCashInventoryHandlingRequestOutputModel requestNoncashinventoryhandling(String sdReferenceId, String crReferenceId, String bqReferenceId, BQNonCashInventoryHandlingRequestInputModel request);
+	
+	BQSafeCustodyOperationsRequestOutputModel requestSafecustodyoperations(String sdReferenceId, String crReferenceId, String bqReferenceId, BQSafeCustodyOperationsRequestInputModel request);
+	
+	BQStaffAssignmentRequestOutputModel requestStaffassignment(String sdReferenceId, String crReferenceId, String bqReferenceId, BQStaffAssignmentRequestInputModel request);
+	
+	CRBranchLocationAdministrativePlanRequestOutputModel request(String sdReferenceId, String crReferenceId, CRBranchLocationAdministrativePlanRequestInputModel request);
+	
+	BQWorkforceAdministrationRequestOutputModel requestWorkforceadministration(String sdReferenceId, String crReferenceId, String bqReferenceId, BQWorkforceAdministrationRequestInputModel request);
+	
+	BQCashInventoryHandlingRetrieveOutputModel retrieveCashinventoryhandling(String sdReferenceId, String crReferenceId, String bqReferenceId);
+	
+	BQLocationSecurityAdministrationRetrieveOutputModel retrieveLocationsecurityadministration(String sdReferenceId, String crReferenceId, String bqReferenceId);
+	
+	BQNonCashInventoryHandlingRetrieveOutputModel retrieveNoncashinventoryhandling(String sdReferenceId, String crReferenceId, String bqReferenceId);
+	
+	BQSafeCustodyOperationsRetrieveOutputModel retrieveSafecustodyoperations(String sdReferenceId, String crReferenceId, String bqReferenceId);
+	
+	BQStaffAssignmentRetrieveOutputModel retrieveStaffassignment(String sdReferenceId, String crReferenceId, String bqReferenceId);
+	
+	BQWorkforceAdministrationRetrieveOutputModel retrieveWorkforceadministration(String sdReferenceId, String crReferenceId, String bqReferenceId);
+	
+	CRBranchLocationAdministrativePlanRetrieveOutputModel retrieve(String sdReferenceId, String crReferenceId);
+	
+	List<String> retrieveBQIds(String sdReferenceId, String crReferenceId, String behaviorQualifier);
+	
+	List<String> retrieveBQs();
+	
+	List<String> retrieveRefIds(String sdReferenceId);
+	
+	SDBranchLocationOperationsRetrieveOutputModel retrieveSD(String sdReferenceId);
+	
+	CRBranchLocationAdministrativePlanUpdateOutputModel update(String sdReferenceId, String crReferenceId, CRBranchLocationAdministrativePlanUpdateInputModel request);
+	
+	BQCashInventoryHandlingUpdateOutputModel updateCashinventoryhandling(String sdReferenceId, String crReferenceId, String bqReferenceId, BQCashInventoryHandlingUpdateInputModel request);
+	
+	BQLocationSecurityAdministrationUpdateOutputModel updateLocationsecurityadministration(String sdReferenceId, String crReferenceId, String bqReferenceId, BQLocationSecurityAdministrationUpdateInputModel request);
+	
+	BQNonCashInventoryHandlingUpdateOutputModel updateNoncashinventoryhandling(String sdReferenceId, String crReferenceId, String bqReferenceId, BQNonCashInventoryHandlingUpdateInputModel request);
+	
+	BQSafeCustodyOperationsUpdateOutputModel updateSafecustodyoperations(String sdReferenceId, String crReferenceId, String bqReferenceId, BQSafeCustodyOperationsUpdateInputModel request);
+	
+	BQStaffAssignmentUpdateOutputModel updateStaffassignment(String sdReferenceId, String crReferenceId, String bqReferenceId, BQStaffAssignmentUpdateInputModel request);
+	
+	BQWorkforceAdministrationUpdateOutputModel updateWorkforceadministration(String sdReferenceId, String crReferenceId, String bqReferenceId, BQWorkforceAdministrationUpdateInputModel request);
+	
+}

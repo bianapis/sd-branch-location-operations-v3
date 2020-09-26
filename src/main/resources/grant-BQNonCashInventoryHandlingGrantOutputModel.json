@@ -1,0 +1,17 @@
+{
+  "safeCustodyOperationsSafeCustodyOperationsServiceName" : "safeCustodyOperationsSafeCustodyOperationsServiceName",
+  "nonCashInventoryHandlingGrantActionTaskRecord" : {},
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "nonCashInventoryHandlingGrantActionTaskReference" : "NCIHGATR736784",
+  "safeCustodyOperationsSafeCustodyOperationsServiceWorkProduct" : "safeCustodyOperationsSafeCustodyOperationsServiceWorkProduct",
+  "safeCustodyOperationsSafeCustodyOperationsServiceType" : "safeCustodyOperationsSafeCustodyOperationsServiceType",
+  "safeCustodyOperationsBusinessUnitEmployeeReference" : "SCOBUR719831",
+  "safeCustodyOperationsPreconditions" : "safeCustodyOperationsPreconditions",
+  "safeCustodyOperationsSafeCustodyOperationsServiceDescription" : "safeCustodyOperationsSafeCustodyOperationsServiceDescription",
+  "safeCustodyOperationsSafeCustodyOperationsServiceInputsandOuputs" : "safeCustodyOperationsSafeCustodyOperationsServiceInputsandOuputs",
+  "safeCustodyOperationsWorkSchedule" : "safeCustodyOperationsWorkSchedule",
+  "grantRequestRecordReference" : "GRRR758500",
+  "safeCustodyOperationsPostconditions" : "safeCustodyOperationsPostconditions"
+}

@@ -1,0 +1,26 @@
+{
+  "workforceAdministrationWorkforceAdministrationServiceName" : "workforceAdministrationWorkforceAdministrationServiceName",
+  "workforceAdministrationPreconditions" : "workforceAdministrationPreconditions",
+  "workforceAdministrationWorkforceAdministrationServiceType" : "workforceAdministrationWorkforceAdministrationServiceType",
+  "workforceAdministrationWorkforceAdministrationServiceDescription" : "workforceAdministrationWorkforceAdministrationServiceDescription",
+  "workforceAdministrationWorkSchedule" : "workforceAdministrationWorkSchedule",
+  "locationSecurityAdministrationRetrieveActionTaskReference" : "LSARATR787386",
+  "locationSecurityAdministrationInstanceReport" : {
+    "locationSecurityAdministrationInstanceReportRecord" : {},
+    "locationSecurityAdministrationInstanceReport" : {},
+    "locationSecurityAdministrationInstanceReportParameters" : "locationSecurityAdministrationInstanceReportParameters",
+    "locationSecurityAdministrationInstanceReportType" : "locationSecurityAdministrationInstanceReportType"
+  },
+  "workforceAdministrationBusinessUnitEmployeeReference" : "WABUR705814",
+  "workforceAdministrationWorkforceAdministrationServiceWorkProduct" : "workforceAdministrationWorkforceAdministrationServiceWorkProduct",
+  "workforceAdministrationPostconditions" : "workforceAdministrationPostconditions",
+  "workforceAdministrationWorkforceAdministrationServiceInputsandOuputs" : "workforceAdministrationWorkforceAdministrationServiceInputsandOuputs",
+  "locationSecurityAdministrationInstanceAnalysis" : {
+    "locationSecurityAdministrationInstanceAnalysisParameters" : "locationSecurityAdministrationInstanceAnalysisParameters",
+    "locationSecurityAdministrationInstanceAnalysisReportType" : "locationSecurityAdministrationInstanceAnalysisReportType",
+    "locationSecurityAdministrationInstanceAnalysisReport" : {},
+    "locationSecurityAdministrationInstanceAnalysisRecord" : {}
+  },
+  "locationSecurityAdministrationRetrieveActionTaskRecord" : {},
+  "locationSecurityAdministrationRetrieveActionResponse" : "locationSecurityAdministrationRetrieveActionResponse"
+}

@@ -1,0 +1,14 @@
+{
+  "safeCustodyOperationsUpdateActionTaskReference" : "SCOUATR712804",
+  "safeCustodyOperationsUpdateActionTaskRecord" : {},
+  "workforceAdministrationWorkforceAdministrationServiceName" : "workforceAdministrationWorkforceAdministrationServiceName",
+  "workforceAdministrationBusinessUnitEmployeeReference" : "WABUR756642",
+  "workforceAdministrationWorkforceAdministrationServiceWorkProduct" : "workforceAdministrationWorkforceAdministrationServiceWorkProduct",
+  "updateResponseRecord" : {},
+  "workforceAdministrationPreconditions" : "workforceAdministrationPreconditions",
+  "workforceAdministrationPostconditions" : "workforceAdministrationPostconditions",
+  "workforceAdministrationWorkforceAdministrationServiceType" : "workforceAdministrationWorkforceAdministrationServiceType",
+  "workforceAdministrationWorkforceAdministrationServiceDescription" : "workforceAdministrationWorkforceAdministrationServiceDescription",
+  "workforceAdministrationWorkforceAdministrationServiceInputsandOuputs" : "workforceAdministrationWorkforceAdministrationServiceInputsandOuputs",
+  "workforceAdministrationWorkSchedule" : "workforceAdministrationWorkSchedule"
+}

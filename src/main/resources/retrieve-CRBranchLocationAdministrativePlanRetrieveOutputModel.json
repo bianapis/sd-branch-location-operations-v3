@@ -1,0 +1,19 @@
+{
+  "branchLocationAdministrativePlanAssignment" : "branchLocationAdministrativePlanAssignment",
+  "branchLocationAdministrativePlanRetrieveActionTaskReference" : "BLAPRATR785177",
+  "branchLocationAdministrativePlanBudgetType" : "branchLocationAdministrativePlanBudgetType",
+  "branchLocationAdministrativePlanRetrieveActionResponse" : "branchLocationAdministrativePlanRetrieveActionResponse",
+  "branchLocationAdministrativePlanRetrieveActionTaskRecord" : {},
+  "branchLocationAdministrativePlanInstanceAnalysis" : {
+    "branchLocationAdministrativePlanInstanceAnalysisReport" : {},
+    "branchLocationAdministrativePlanInstanceAnalysisData" : "branchLocationAdministrativePlanInstanceAnalysisData",
+    "branchLocationAdministrativePlanInstanceAnalysisReportType" : "branchLocationAdministrativePlanInstanceAnalysisReportType"
+  },
+  "branchLocationAdministrativePlanPlan" : "branchLocationAdministrativePlanPlan",
+  "branchLocationAdministrativePlanInstanceReportRecord" : {
+    "branchLocationAdministrativePlanInstanceReportData" : "branchLocationAdministrativePlanInstanceReportData",
+    "branchLocationAdministrativePlanInstanceReportType" : "branchLocationAdministrativePlanInstanceReportType",
+    "branchLocationAdministrativePlanInstanceReport" : {}
+  },
+  "branchLocationAdministrativePlanReference" : "BLAPR798496"
+}

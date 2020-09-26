@@ -1,0 +1,26 @@
+{
+  "locationSecurityAdministrationPostconditions" : "locationSecurityAdministrationPostconditions",
+  "locationSecurityAdministrationLocationSecurityServiceName" : "locationSecurityAdministrationLocationSecurityServiceName",
+  "nonCashInventoryHandlingRetrieveActionTaskRecord" : {},
+  "locationSecurityAdministrationLocationSecurityServiceType" : "locationSecurityAdministrationLocationSecurityServiceType",
+  "nonCashInventoryHandlingRetrieveActionTaskReference" : "NCIHRATR720458",
+  "locationSecurityAdministrationWorkSchedule" : "locationSecurityAdministrationWorkSchedule",
+  "nonCashInventoryHandlingRetrieveActionResponse" : "nonCashInventoryHandlingRetrieveActionResponse",
+  "locationSecurityAdministrationLocationSecurityServiceWorkProduct" : "locationSecurityAdministrationLocationSecurityServiceWorkProduct",
+  "locationSecurityAdministrationPreconditions" : "locationSecurityAdministrationPreconditions",
+  "nonCashInventoryHandlingInstanceReport" : {
+    "nonCashInventoryHandlingInstanceReport" : {},
+    "nonCashInventoryHandlingInstanceReportParameters" : "nonCashInventoryHandlingInstanceReportParameters",
+    "nonCashInventoryHandlingInstanceReportType" : "nonCashInventoryHandlingInstanceReportType",
+    "nonCashInventoryHandlingInstanceReportRecord" : {}
+  },
+  "locationSecurityAdministrationBusinessUnitEmployeeReference" : "LSABUR777387",
+  "locationSecurityAdministrationLocationSecurityServiceInputsandOuputs" : "locationSecurityAdministrationLocationSecurityServiceInputsandOuputs",
+  "nonCashInventoryHandlingInstanceAnalysis" : {
+    "nonCashInventoryHandlingInstanceAnalysisRecord" : {},
+    "nonCashInventoryHandlingInstanceAnalysisParameters" : "nonCashInventoryHandlingInstanceAnalysisParameters",
+    "nonCashInventoryHandlingInstanceAnalysisReport" : {},
+    "nonCashInventoryHandlingInstanceAnalysisReportType" : "nonCashInventoryHandlingInstanceAnalysisReportType"
+  },
+  "locationSecurityAdministrationLocationSecurityServiceDescription" : "locationSecurityAdministrationLocationSecurityServiceDescription"
+}

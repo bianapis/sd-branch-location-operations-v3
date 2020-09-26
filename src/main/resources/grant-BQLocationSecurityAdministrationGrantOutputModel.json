@@ -1,0 +1,17 @@
+{
+  "locationSecurityAdministrationPostconditions" : "locationSecurityAdministrationPostconditions",
+  "locationSecurityAdministrationLocationSecurityServiceName" : "locationSecurityAdministrationLocationSecurityServiceName",
+  "locationSecurityAdministrationLocationSecurityServiceType" : "locationSecurityAdministrationLocationSecurityServiceType",
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "locationSecurityAdministrationGrantActionTaskReference" : "LSAGATR765254",
+  "locationSecurityAdministrationWorkSchedule" : "locationSecurityAdministrationWorkSchedule",
+  "locationSecurityAdministrationGrantActionTaskRecord" : {},
+  "locationSecurityAdministrationLocationSecurityServiceWorkProduct" : "locationSecurityAdministrationLocationSecurityServiceWorkProduct",
+  "locationSecurityAdministrationPreconditions" : "locationSecurityAdministrationPreconditions",
+  "locationSecurityAdministrationBusinessUnitEmployeeReference" : "LSABUR783935",
+  "locationSecurityAdministrationLocationSecurityServiceInputsandOuputs" : "locationSecurityAdministrationLocationSecurityServiceInputsandOuputs",
+  "locationSecurityAdministrationLocationSecurityServiceDescription" : "locationSecurityAdministrationLocationSecurityServiceDescription",
+  "grantRequestRecordReference" : "GRRR766705"
+}

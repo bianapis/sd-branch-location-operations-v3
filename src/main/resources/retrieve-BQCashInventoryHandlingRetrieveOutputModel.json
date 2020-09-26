@@ -1,0 +1,26 @@
+{
+  "noncashInventoryHandlingBusinessUnitEmployeeReference" : "NIHBUR760160",
+  "noncashInventoryHandlingInventoryHandlingServiceWorkProduct" : "noncashInventoryHandlingInventoryHandlingServiceWorkProduct",
+  "noncashInventoryHandlingWorkSchedule" : "noncashInventoryHandlingWorkSchedule",
+  "noncashInventoryHandlingInventoryHandlingServiceInputsandOuputs" : "noncashInventoryHandlingInventoryHandlingServiceInputsandOuputs",
+  "noncashInventoryHandlingInventoryHandlingServiceType" : "noncashInventoryHandlingInventoryHandlingServiceType",
+  "noncashInventoryHandlingPostconditions" : "noncashInventoryHandlingPostconditions",
+  "cashInventoryHandlingRetrieveActionTaskReference" : "CIHRATR789311",
+  "cashInventoryHandlingInstanceReport" : {
+    "cashInventoryHandlingInstanceReportType" : "cashInventoryHandlingInstanceReportType",
+    "cashInventoryHandlingInstanceReport" : {},
+    "cashInventoryHandlingInstanceReportRecord" : {},
+    "cashInventoryHandlingInstanceReportParameters" : "cashInventoryHandlingInstanceReportParameters"
+  },
+  "noncashInventoryHandlingPreconditions" : "noncashInventoryHandlingPreconditions",
+  "cashInventoryHandlingRetrieveActionTaskRecord" : {},
+  "noncashInventoryHandlingInventoryHandlingServiceDescription" : "noncashInventoryHandlingInventoryHandlingServiceDescription",
+  "noncashInventoryHandlingInventoryHandlingServiceName" : "noncashInventoryHandlingInventoryHandlingServiceName",
+  "cashInventoryHandlingRetrieveActionResponse" : "cashInventoryHandlingRetrieveActionResponse",
+  "cashInventoryHandlingInstanceAnalysis" : {
+    "cashInventoryHandlingInstanceAnalysisReport" : {},
+    "cashInventoryHandlingInstanceAnalysisParameters" : "cashInventoryHandlingInstanceAnalysisParameters",
+    "cashInventoryHandlingInstanceAnalysisRecord" : {},
+    "cashInventoryHandlingInstanceAnalysisReportType" : "cashInventoryHandlingInstanceAnalysisReportType"
+  }
+}

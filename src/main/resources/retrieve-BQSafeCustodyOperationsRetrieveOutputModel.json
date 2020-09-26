@@ -1,0 +1,25 @@
+{
+  "cashInventoryHandlingPostconditions" : "cashInventoryHandlingPostconditions",
+  "cashInventoryHandlingWorkSchedule" : "cashInventoryHandlingWorkSchedule",
+  "cashInventoryHandlingCashInventoryHandlingServiceDescription" : "cashInventoryHandlingCashInventoryHandlingServiceDescription",
+  "safeCustodyOperationsInstanceReport" : {
+    "safeCustodyOperationsInstanceReportRecord" : {},
+    "safeCustodyOperationsInstanceReportParameters" : "safeCustodyOperationsInstanceReportParameters",
+    "safeCustodyOperationsInstanceReportType" : "safeCustodyOperationsInstanceReportType",
+    "safeCustodyOperationsInstanceReport" : {}
+  },
+  "cashInventoryHandlingCashInventoryHandlingServiceType" : "cashInventoryHandlingCashInventoryHandlingServiceType",
+  "safeCustodyOperationsRetrieveActionTaskReference" : "SCORATR751366",
+  "cashInventoryHandlingCashInventoryHandlingServiceInputsandOuputs" : "cashInventoryHandlingCashInventoryHandlingServiceInputsandOuputs",
+  "cashInventoryHandlingPreconditions" : "cashInventoryHandlingPreconditions",
+  "safeCustodyOperationsRetrieveActionTaskRecord" : {},
+  "cashInventoryHandlingCashInventoryHandlingServiceWorkProduct" : "cashInventoryHandlingCashInventoryHandlingServiceWorkProduct",
+  "safeCustodyOperationsRetrieveActionResponse" : "safeCustodyOperationsRetrieveActionResponse",
+  "safeCustodyOperationsInstanceAnalysis" : {
+    "safeCustodyOperationsInstanceAnalysisReportType" : "safeCustodyOperationsInstanceAnalysisReportType",
+    "safeCustodyOperationsInstanceAnalysisParameters" : "safeCustodyOperationsInstanceAnalysisParameters",
+    "safeCustodyOperationsInstanceAnalysisReport" : {},
+    "safeCustodyOperationsInstanceAnalysisRecord" : {}
+  },
+  "cashInventoryHandlingBusinessUnitEmployeeReference" : "CIHBUR748000"
+}

@@ -1,0 +1,15 @@
+{
+  "safeCustodyOperationsCaptureActionTaskRecord" : {},
+  "workforceAdministrationWorkforceAdministrationServiceName" : "workforceAdministrationWorkforceAdministrationServiceName",
+  "workforceAdministrationPreconditions" : "workforceAdministrationPreconditions",
+  "workforceAdministrationWorkforceAdministrationServiceType" : "workforceAdministrationWorkforceAdministrationServiceType",
+  "workforceAdministrationWorkforceAdministrationServiceDescription" : "workforceAdministrationWorkforceAdministrationServiceDescription",
+  "workforceAdministrationWorkSchedule" : "workforceAdministrationWorkSchedule",
+  "safeCustodyOperationsCaptureActionTaskReference" : "SCOCATR767469",
+  "safeCustodyOperationsCaptureRecordReference" : "SCOCRR782083",
+  "workforceAdministrationBusinessUnitEmployeeReference" : "WABUR789413",
+  "workforceAdministrationWorkforceAdministrationServiceWorkProduct" : "workforceAdministrationWorkforceAdministrationServiceWorkProduct",
+  "workforceAdministrationPostconditions" : "workforceAdministrationPostconditions",
+  "workforceAdministrationWorkforceAdministrationServiceInputsandOuputs" : "workforceAdministrationWorkforceAdministrationServiceInputsandOuputs",
+  "captureResponseRecord" : {}
+}

@@ -1,0 +1,17 @@
+{
+  "noncashInventoryHandlingBusinessUnitEmployeeReference" : "NIHBUR755951",
+  "noncashInventoryHandlingInventoryHandlingServiceWorkProduct" : "noncashInventoryHandlingInventoryHandlingServiceWorkProduct",
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "noncashInventoryHandlingWorkSchedule" : "noncashInventoryHandlingWorkSchedule",
+  "noncashInventoryHandlingInventoryHandlingServiceInputsandOuputs" : "noncashInventoryHandlingInventoryHandlingServiceInputsandOuputs",
+  "cashInventoryHandlingGrantActionTaskReference" : "CIHGATR765227",
+  "cashInventoryHandlingGrantActionTaskRecord" : {},
+  "noncashInventoryHandlingInventoryHandlingServiceType" : "noncashInventoryHandlingInventoryHandlingServiceType",
+  "noncashInventoryHandlingPostconditions" : "noncashInventoryHandlingPostconditions",
+  "noncashInventoryHandlingPreconditions" : "noncashInventoryHandlingPreconditions",
+  "noncashInventoryHandlingInventoryHandlingServiceDescription" : "noncashInventoryHandlingInventoryHandlingServiceDescription",
+  "noncashInventoryHandlingInventoryHandlingServiceName" : "noncashInventoryHandlingInventoryHandlingServiceName",
+  "grantRequestRecordReference" : "GRRR798919"
+}

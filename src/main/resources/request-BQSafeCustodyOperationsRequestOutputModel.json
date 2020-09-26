@@ -1,0 +1,15 @@
+{
+  "workforceAdministrationWorkforceAdministrationServiceName" : "workforceAdministrationWorkforceAdministrationServiceName",
+  "safeCustodyOperationsRequestActionTaskReference" : "SCORATR792432",
+  "workforceAdministrationPreconditions" : "workforceAdministrationPreconditions",
+  "workforceAdministrationWorkforceAdministrationServiceType" : "workforceAdministrationWorkforceAdministrationServiceType",
+  "workforceAdministrationWorkforceAdministrationServiceDescription" : "workforceAdministrationWorkforceAdministrationServiceDescription",
+  "workforceAdministrationWorkSchedule" : "workforceAdministrationWorkSchedule",
+  "requestResponseRecord" : {},
+  "safeCustodyOperationsRequestActionTaskRecord" : {},
+  "safeCustodyOperationsRequestRecordReference" : "SCORRR731517",
+  "workforceAdministrationBusinessUnitEmployeeReference" : "WABUR752238",
+  "workforceAdministrationWorkforceAdministrationServiceWorkProduct" : "workforceAdministrationWorkforceAdministrationServiceWorkProduct",
+  "workforceAdministrationPostconditions" : "workforceAdministrationPostconditions",
+  "workforceAdministrationWorkforceAdministrationServiceInputsandOuputs" : "workforceAdministrationWorkforceAdministrationServiceInputsandOuputs"
+}

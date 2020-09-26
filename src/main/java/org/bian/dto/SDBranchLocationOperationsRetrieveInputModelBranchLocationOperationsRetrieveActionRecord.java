@@ -1,0 +1,67 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.SDBranchLocationOperationsRetrieveInputModelBranchLocationOperationsRetrieveActionRecordBranchLocationOperationsActivityAnalysis;
+import org.bian.dto.SDBranchLocationOperationsRetrieveInputModelBranchLocationOperationsRetrieveActionRecordBranchLocationOperationsPerformanceAnalysis;
+import org.bian.dto.SDBranchLocationOperationsRetrieveInputModelBranchLocationOperationsRetrieveActionRecordControlRecordPortfolioAnalysis;
+
+import javax.validation.Valid;
+  
+/**
+ * SDBranchLocationOperationsRetrieveInputModelBranchLocationOperationsRetrieveActionRecord
+ */
+public class SDBranchLocationOperationsRetrieveInputModelBranchLocationOperationsRetrieveActionRecord   {
+  private SDBranchLocationOperationsRetrieveInputModelBranchLocationOperationsRetrieveActionRecordBranchLocationOperationsActivityAnalysis branchLocationOperationsActivityAnalysis = null;
+
+  private SDBranchLocationOperationsRetrieveInputModelBranchLocationOperationsRetrieveActionRecordBranchLocationOperationsPerformanceAnalysis branchLocationOperationsPerformanceAnalysis = null;
+
+  private SDBranchLocationOperationsRetrieveInputModelBranchLocationOperationsRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis = null;
+
+
+  /**
+   * Get branchLocationOperationsActivityAnalysis
+   * @return branchLocationOperationsActivityAnalysis
+  **/
+
+  public SDBranchLocationOperationsRetrieveInputModelBranchLocationOperationsRetrieveActionRecordBranchLocationOperationsActivityAnalysis getBranchLocationOperationsActivityAnalysis() {
+    return branchLocationOperationsActivityAnalysis;
+  }
+
+  public void setBranchLocationOperationsActivityAnalysis(SDBranchLocationOperationsRetrieveInputModelBranchLocationOperationsRetrieveActionRecordBranchLocationOperationsActivityAnalysis branchLocationOperationsActivityAnalysis) {
+    this.branchLocationOperationsActivityAnalysis = branchLocationOperationsActivityAnalysis;
+  }
+
+
+  /**
+   * Get branchLocationOperationsPerformanceAnalysis
+   * @return branchLocationOperationsPerformanceAnalysis
+  **/
+
+  public SDBranchLocationOperationsRetrieveInputModelBranchLocationOperationsRetrieveActionRecordBranchLocationOperationsPerformanceAnalysis getBranchLocationOperationsPerformanceAnalysis() {
+    return branchLocationOperationsPerformanceAnalysis;
+  }
+
+  public void setBranchLocationOperationsPerformanceAnalysis(SDBranchLocationOperationsRetrieveInputModelBranchLocationOperationsRetrieveActionRecordBranchLocationOperationsPerformanceAnalysis branchLocationOperationsPerformanceAnalysis) {
+    this.branchLocationOperationsPerformanceAnalysis = branchLocationOperationsPerformanceAnalysis;
+  }
+
+
+  /**
+   * Get controlRecordPortfolioAnalysis
+   * @return controlRecordPortfolioAnalysis
+  **/
+
+  public SDBranchLocationOperationsRetrieveInputModelBranchLocationOperationsRetrieveActionRecordControlRecordPortfolioAnalysis getControlRecordPortfolioAnalysis() {
+    return controlRecordPortfolioAnalysis;
+  }
+
+  public void setControlRecordPortfolioAnalysis(SDBranchLocationOperationsRetrieveInputModelBranchLocationOperationsRetrieveActionRecordControlRecordPortfolioAnalysis controlRecordPortfolioAnalysis) {
+    this.controlRecordPortfolioAnalysis = controlRecordPortfolioAnalysis;
+  }
+
+
+}
+

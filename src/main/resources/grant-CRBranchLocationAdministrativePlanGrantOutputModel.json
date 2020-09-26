@@ -1,0 +1,11 @@
+{
+  "branchLocationAdministrativePlanAssignment" : "branchLocationAdministrativePlanAssignment",
+  "branchLocationAdministrativePlanBudgetType" : "branchLocationAdministrativePlanBudgetType",
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "branchLocationAdministrativePlanPlan" : "branchLocationAdministrativePlanPlan",
+  "branchLocationAdministrativePlanGrantActionTaskRecord" : {},
+  "branchLocationAdministrativePlanGrantActionTaskReference" : "BLAPGATR737861",
+  "grantRequestRecordReference" : "GRRR708364"
+}

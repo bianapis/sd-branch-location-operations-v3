@@ -1,0 +1,21 @@
+{
+  "branchLocationOperationsConfigurationActionTaskReference" : "SCATR765419",
+  "branchLocationOperationsServicingSessionStatus" : "branchLocationOperationsServicingSessionStatus",
+  "branchLocationOperationsServiceConfigurationRecord" : {
+    "branchLocationOperationsServiceConfigurationSettingDescription" : "branchLocationOperationsServiceConfigurationSettingDescription",
+    "branchLocationOperationsServiceConfigurationSetup" : {
+      "branchLocationOperationsServiceConfigurationParameter" : "branchLocationOperationsServiceConfigurationParameter"
+    },
+    "branchLocationOperationsServiceStatus" : "branchLocationOperationsServiceStatus",
+    "branchLocationOperationsServiceSubscription" : {
+      "branchLocationOperationsServiceSubscriberReference" : "756221",
+      "branchLocationOperationsServiceSubscriberAccessProfile" : "branchLocationOperationsServiceSubscriberAccessProfile"
+    },
+    "branchLocationOperationsServiceAgreement" : {
+      "branchLocationOperationsServiceAgreementTermsandConditions" : "branchLocationOperationsServiceAgreementTermsandConditions",
+      "branchLocationOperationsServiceAgreementReference" : "721156",
+      "branchLocationOperationsServiceUserReference" : "733696"
+    }
+  },
+  "branchLocationOperationsConfigurationActionTaskRecord" : {}
+}

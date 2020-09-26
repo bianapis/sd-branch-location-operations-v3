@@ -1,0 +1,9 @@
+{
+  "branchLocationAdministrativePlanAssignment" : "branchLocationAdministrativePlanAssignment",
+  "branchLocationAdministrativePlanBudgetType" : "branchLocationAdministrativePlanBudgetType",
+  "branchLocationAdministrativePlanInstanceStatus" : "branchLocationAdministrativePlanInstanceStatus",
+  "branchLocationAdministrativePlanPlan" : "branchLocationAdministrativePlanPlan",
+  "branchLocationAdministrativePlanInstanceReference" : "BLAPIR719375",
+  "branchLocationAdministrativePlanInitiateActionReference" : "BLAPIAR722810",
+  "branchLocationAdministrativePlanInitiateActionRecord" : {}
+}

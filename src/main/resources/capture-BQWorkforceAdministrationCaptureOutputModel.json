@@ -1,0 +1,14 @@
+{
+  "cashInventoryHandlingCashInventoryHandlingServiceType" : "cashInventoryHandlingCashInventoryHandlingServiceType",
+  "workforceAdministrationCaptureRecordReference" : "WACRR751426",
+  "cashInventoryHandlingPostconditions" : "cashInventoryHandlingPostconditions",
+  "cashInventoryHandlingCashInventoryHandlingServiceInputsandOuputs" : "cashInventoryHandlingCashInventoryHandlingServiceInputsandOuputs",
+  "workforceAdministrationCaptureActionTaskReference" : "WACATR739502",
+  "workforceAdministrationCaptureActionTaskRecord" : {},
+  "cashInventoryHandlingPreconditions" : "cashInventoryHandlingPreconditions",
+  "cashInventoryHandlingWorkSchedule" : "cashInventoryHandlingWorkSchedule",
+  "cashInventoryHandlingCashInventoryHandlingServiceWorkProduct" : "cashInventoryHandlingCashInventoryHandlingServiceWorkProduct",
+  "cashInventoryHandlingBusinessUnitEmployeeReference" : "CIHBUR725787",
+  "cashInventoryHandlingCashInventoryHandlingServiceDescription" : "cashInventoryHandlingCashInventoryHandlingServiceDescription",
+  "captureResponseRecord" : {}
+}
